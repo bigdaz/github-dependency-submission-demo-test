@@ -13,4 +13,3 @@ After having observed duplicates magically appear and dissappear on GitHub and t
  - See lislei/github-dependency-submission-demo-test#2 - at this point in time the Dependency Graph was of size 7.
 4. Any subsequent PRs or triggered Actions on feature branches will introduce duplicates, i.e. lislei/github-dependency-submission-demo-test#3
 
-
