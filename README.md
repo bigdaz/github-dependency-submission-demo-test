@@ -1,4 +1,4 @@
-# How to reproduce duplicate entries in GitHub Dependency Graph
+# How to reproduce duplicate entries in GitHub Dependency Graph.
 
 Here are the required steps to reproduce duplicate gradle dependencies being introduced in the Dependency Graph. 
 The project i was working on had adopted this setup with submission+review based on this demo pointed by the [documentations of the official gradle/actions/dependency-submission action](https://github.com/gradle/actions/blob/895252588e0dfbf80467d2d33f34a3ee85235009/docs/dependency-submission.md).
